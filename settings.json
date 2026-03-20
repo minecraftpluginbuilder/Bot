@@ -6,8 +6,8 @@
     "type": "0"
   },
   "server": {
-    "ip": "MYTHICSMPxx.play.hosting",
-    "port": 25565,
+    "ip": "play.mythicsmp.qzz.io",
+    "port": 26010,
     "version": "",
     "try-creative": false
   },
