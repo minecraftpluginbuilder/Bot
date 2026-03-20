@@ -6,8 +6,8 @@
     "type": "0"
   },
   "server": {
-    "ip": "play.mythicsmp.qzz.io",
-    "port": 26010,
+    "ip": "mythicsmp00000.play.minekube.net",
+    "port": 25565,
     "version": "",
     "try-creative": false
   },
